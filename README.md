@@ -7,7 +7,8 @@ frontend, following the "Web Development with Django and React" approach.
 
 > ⚠️ Early stage. Room creation and joining work; live music-service playback is not wired up yet.
 
-![Home](docs/home.png)
+![Create a room](docs/home.png)
+*The "Create a Room" screen: set who can control playback and how many votes skip a track.*
 
 ## Quickstart
 
