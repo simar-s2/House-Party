@@ -7,7 +7,7 @@ frontend, following the "Web Development with Django and React" approach.
 
 > ⚠️ Early stage. Room creation and joining work; live music-service playback is not wired up yet.
 
-> 📸 **Screenshot needed**: the home screen with the "Create a Room" / "Join a Room" choice. Save to `docs/home.png` and replace this line with `![Home](docs/home.png)`.
+![Home](docs/home.png)
 
 ## Quickstart
 
